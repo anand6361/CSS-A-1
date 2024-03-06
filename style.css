@@ -1,0 +1,36 @@
+h1{
+    color: rgb(24, 254,89);
+}
+h2{
+    color: rgb(8, 172, 55);
+}
+ol li{
+    color: brown;
+    padding: 10px 10px 10px 0px;
+}
+.list1{
+    text-decoration: line-through;
+}
+.list2{
+    background-color: yellow;
+    font-weight: bold;
+}
+.list3{
+    text-decoration: underline;
+    font-style: italic;
+}
+ul li{
+    letter-spacing: 4px;
+    color: brown;
+}
+.list4{
+    background-color: yellow;
+}
+p{
+    padding: 10px 10px 10px 0px;
+    color: brown;
+}
+a{
+    background-color: yellow;
+    color: red;
+}
